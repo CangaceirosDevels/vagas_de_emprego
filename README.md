@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars1.githubusercontent.com/u/21087342?v=3&s=200" alt="FrontEndBR" width="230" />
+  <img src="https://avatars1.githubusercontent.com/u/21087342?v=3&s=200" alt="FrontEndBR" width="180" />
 </p>
 
 # Vagas
