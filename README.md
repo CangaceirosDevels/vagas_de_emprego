@@ -8,6 +8,8 @@ Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github
 
 Vagas disponíveis em https://github.com/CangaceirosDevels/vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/CangaceirosDevels/vagas_de_emprego). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
+
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
